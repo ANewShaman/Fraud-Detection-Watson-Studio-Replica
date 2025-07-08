@@ -2,14 +2,13 @@
 
 ## Overview
 
-This repository contains a Jupyter Notebook (Fraud_Detection (1).ipynb) exploring a machine learning model for fraud detection using transaction data. The project aims to identify fraudulent transactions, showcasing the performance of different classification algorithms.
+This repository contains a Jupyter Notebook ('Fraud_Detection (1).ipynb') exploring a machine learning model for fraud detection using transaction data. The project aims to identify fraudulent transactions, showcasing the performance of different classification algorithms.
 
 ---
 
 ## Contents
 
-* `Fraud_Detection (1).ipynb`: The main Jupyter Notebook containing data analysis, model training, evaluation, and visualizations.
-* `images/`: Directory containing screenshots of model performance metrics.
+* `Fraud_Detection (1).ipynb`: The main code containing data analysis, model training, evaluation, and visualizations.
 * `README.md`: This file, providing an overview of the project.
 * `requirements.txt`: Lists all necessary Python dependencies.
 
