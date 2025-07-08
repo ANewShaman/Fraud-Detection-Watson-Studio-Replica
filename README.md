@@ -65,7 +65,7 @@ This project evaluated several machine learning algorithms for fraud detection. 
 
 ### Confusion Matrices and Classification Reports
 
-![Model Performance Comparison](images/confusion_matrices.jpg)
+![Model Performance Comparison](confusion_matrices.jpg)
 
 * **Key Observations (from Confusion Matrices):**
     * **Logistic Regression:** Shows decent overall accuracy but with a lower F1-score for fraud (Class 1) compared to other models.
@@ -74,7 +74,7 @@ This project evaluated several machine learning algorithms for fraud detection. 
 
 ### Receiver Operating Characteristic (ROC) Curves
 
-![ROC Curve Comparison](images/ROC.jpg)
+![ROC Curve Comparison](ROC.jpg)
 
 * **Key Observations (from ROC Curves):**
     * The **Area Under the Curve (AUC)** is a crucial metric here. An AUC close to 1.0 indicates excellent discriminative ability.
