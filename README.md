@@ -20,7 +20,7 @@ To set up and run this project locally, follow these steps:
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/ANewShaman/Fraud-Detection-Watson-Studio-Replica.git](https://github.com/ANewShaman/Fraud-Detection-Watson-Studio-Replica.git)
+    git clone https://github.com/ANewShaman/Fraud-Detection-Watson-Studio-Replica.git
     cd Fraud-Detection-Watson-Studio-Replica # Or 'cd Downloads' if that's where you initialized
     ```
 
